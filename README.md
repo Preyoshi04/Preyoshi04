@@ -60,10 +60,19 @@
 
 ---
 
-## 🏆 Highlights  
-- 🌟 Hands-on experience with **Java-based problem solving & web projects**  
-- 📚 Actively building projects using the **MERN stack**  
-- 💡 Interested in **real-world applications, hackathons & open-source**  
+## 🏆 Highlights
+
+🏅 **Graphics Desgining Internship** @InAmigos Foundation (June2025-July2025) <br>
+🧠 Solving daily **DSA problems** on LeetCode, GFG & HackerRank  <br>
+⚡ **Graphics Head** in **Technical Club** of college <br>
+🌟 **Admin of Techno-Management Club** of college(leadinga team of 50+ students)
+
+ ## 📊 LeetCode Progress
+
+<p align="center">
+  <img src="https://leetcard.jacoblin.cool/Preyoshi?theme=dark&font=baloo" />
+</p>
+
 
 ---
 
@@ -72,9 +81,6 @@
   <img src="https://github-readme-streak-stats-salesp07.vercel.app/?user=Preyoshi04&theme=tokyonight" height="160"/>
 </p>
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Preyoshi04&show_icons=true&theme=tokyonight" height="160"/>
-</p>
 
 <p align="center">
   <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Preyoshi04&layout=compact&theme=tokyonight" height="150"/>
