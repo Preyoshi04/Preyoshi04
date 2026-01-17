@@ -8,14 +8,19 @@
 
 ---
 
-## 💫 About Me  
-🎓 Computer Science enthusiast  
-💻 **DSA & Problem Solving using Java**  
-🌐 Exploring **Full-Stack Web Development (MERN Stack)**  
-⚡ Strong interest in **OOP, DBMS, and Software Engineering concepts**  
-🎯 Actively seeking **SDE / Software Engineer roles**
+<p>
+I am a passionate <strong>Computer Science enthusiast</strong> with a solid foundation in 
+<strong>Data Structures & Algorithms using Java</strong>, focused on building efficient and scalable solutions. <br>
+Actively exploring <strong>full-stack web development (MERN stack)</strong>, 
+developing projects that bridge robust backend systems with intuitive user experiences. <br>
+I have a strong interest in <strong>Object-Oriented Programming, DBMS, and core Software Engineering concepts</strong>, 
+and I enjoy applying these principles to solve real-world problems. <br>
+Currently, I am seeking opportunities as a <strong>Software Development Engineer</strong> where I can learn, 
+contribute, and create impactful software.
+</p>
 
 ---
+
 
 ## 🛠 Tech Stack  
 
@@ -27,14 +32,11 @@
 
 ### 🌐 Web & Full-Stack Development
 <p align="center">
-  <img src="https://img.icons8.com/color/48/html-5.png" title="HTML"/>
-  <img src="https://img.icons8.com/color/48/css3.png" title="CSS"/>
-  <img src="https://img.icons8.com/color/48/react-native.png" title="React"/>
-  <img src="https://img.icons8.com/color/48/nodejs.png" title="Node.js"/>
-  <img src="https://img.icons8.com/color/48/express.png" title="Express.js"/>
-  <img src="https://img.icons8.com/color/48/bootstrap.png" title="Bootstrap"/>
-  <img src="https://img.icons8.com/color/48/tailwind_css.png" title="Tailwind CSS"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="48" title="HTML5"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="48" title="CSS3"/>
+  <img src="https://skillicons.dev/icons?i=react,nextjs,nodejs,express,tailwindcss" />
 </p>
+
 
 ### 🗄 Databases
 <p align="center">
@@ -81,6 +83,9 @@
   <img src="https://github-readme-streak-stats-salesp07.vercel.app/?user=Preyoshi04&theme=tokyonight" height="160"/>
 </p>
 
+<p align="center">
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=Preyoshi04&show_icons=true&theme=tokyonight" height="160"/>
+</p>
 
 <p align="center">
   <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Preyoshi04&layout=compact&theme=tokyonight" height="150"/>
