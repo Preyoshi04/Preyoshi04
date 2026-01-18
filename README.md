@@ -72,7 +72,9 @@ contribute, and create impactful software.
  ## 📊 LeetCode Progress
 
 <p align="center">
-  <img src="https://leetcard.jacoblin.cool/Preyoshi?theme=dark&font=baloo" />
+  <a href="https://leetcode.com/Preyoshi">
+    <img src="assets/leetcode.png" width="420"/>
+  </a>
 </p>
 
 
